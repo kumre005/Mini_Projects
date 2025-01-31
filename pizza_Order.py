@@ -22,6 +22,6 @@ if add_pepperoni == "Y" or add_pepperoni == 'y':
 extra_cheese = input("Do youu want extra cheese?(Y/N)")
 
 if extra_cheese == 'Y' or extra_cheese == 'y':
-    bill+=20
+    bill+=15
 
 print(f"Your final bill is {bill}")
